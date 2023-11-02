@@ -8,9 +8,9 @@ It can be utilized for any kind of coordination and state management. The system
 metamorphOS is realized as a headless white-label SaaS and on-premise solution.
 
 ### Important Links
-- (homepage)[https://metamorphos.io]
-- (test app)[https://app.metamorphos.io]
+- [homepage](https://metamorphos.io)I
+- [test app](https://app.metamorphos.io)
 
 
 ### Contact
-You can reach out to us via the socials linked in the Github profile as well as via (e-mail)[mailto:info@metamorphos.io]
+You can reach out to us via the socials linked in the Github profile as well as via [e-mail](mailto:info@metamorphos.io)
